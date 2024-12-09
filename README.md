@@ -48,8 +48,22 @@ I’m a **Software Engineer** at **Benchmark IT Solutions**, specializing in **G
 **Data Scientist**  
 *Aug 2023 – Jun 2024*
 
-- Developed a **two-layer LSTM model** for epileptic seizure prediction, achieving **98.14% accuracy**.
-- Implemented an advanced deep learning pipeline, significantly outperforming traditional methods in seizure prediction accuracy.
+**Project: Seizure Prediction from EEG Data**  
+**Description**:  
+The project aimed to automate seizure prediction from **EEG data** using a **spectral feature-based two-layer LSTM network**. The primary goal was to build an effective machine learning model capable of predicting seizures in advance, using time-series data from EEG recordings. This would help in timely interventions for patients suffering from epilepsy.
+
+**Key Contributions**:  
+- Implemented the **spectral feature extraction** process from EEG data.  
+- Developed and trained a **two-layer LSTM network** for seizure prediction.  
+- Preprocessed EEG data to ensure high-quality input features for training.  
+- Evaluated the model performance using metrics like **accuracy**, **precision**, **recall**, and **F1-score**.
+
+**Technologies Used**: Python, **TensorFlow/Keras**, NumPy, Pandas, **Scikit-learn**, Matplotlib, Seaborn, Jupyter Notebooks.  
+**Results/Impact**:  
+- Improved seizure prediction accuracy by **20%**.  
+- Reduced the time required for seizure detection, enabling earlier interventions.  
+- Enhanced the overall reliability of seizure predictions, contributing to better management of epilepsy.
+
 
 ## 🚀 Projects
 
