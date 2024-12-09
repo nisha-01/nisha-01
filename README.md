@@ -1,8 +1,8 @@
 # Hi 👋, I'm Nisha Aglave
 
-A passionate Data Science enthusiast with a focus on Machine Learning, AI, and Data Analysis. Currently learning cutting-edge technologies and working on real-world problems to enhance my skills.
+## About Me
+I am a **Software Engineer** at **Benchmark IT Solutions**, with a passion for data science and AI. I specialize in building robust machine learning pipelines, automating document processing, and implementing scalable solutions. Eager to continuously learn new technologies and enhance my skill set.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
 ### 🌱 Currently Learning:
 - Artificial Intelligence
@@ -11,20 +11,11 @@ A passionate Data Science enthusiast with a focus on Machine Learning, AI, and D
 - Data Science
 
 ## Technical Skills:
-- **Programming Languages**: Python, Java, C++, C, SQL
+- **Programming Languages**: Python, C++, C, SQL
 - **Visualization Tools**: Tableau, Power BI
 - **Cloud Platforms**: AWS
 - **Version Control**: DevOps: Git, Docker, Kubernetes, Terraform
 - **Database**: PostgreSQL
-
-## Education:
-**Sanjivani College of Engineering**, Kopargaon, Maharashtra  
-Bachelor of Technology (BTech) in Computer Engineering  
-Feb 2021 – May 2024 | CGPA: 8.8  
-Relevant Coursework: Machine Learning, Generative AI, Artificial Intelligence, Data Analysis
-
-**Honors in Artificial Intelligence and Data Science**  
-CGPA: 9.0
 
 ## Experience:
 
