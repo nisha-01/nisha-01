@@ -1,29 +1,62 @@
 # Hi 👋, I'm Nisha Aglave
 
-## About Me
-I am a **Software Engineer** at **Benchmark IT Solutions**, with a passion for data science and AI. I specialize in building robust machine learning pipelines, automating document processing, and implementing scalable solutions. Eager to continuously learn new technologies and enhance my skill set.
+I’m a **Software Engineer** working in the Generative AI team at **Benchmark IT Solutions**. With expertise in Machine Learning, Data Science, and Generative AI, I’m passionate about leveraging AI to solve complex problems. I’m known for being hardworking, honest, and always eager to learn and grow in the field of technology.
 
-
-### 🌱 Currently Learning:
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Data Science
 
 ## Technical Skills:
 - **Programming Languages**: Python, C++, C, SQL
 - **Visualization Tools**: Tableau, Power BI
 - **Cloud Platforms**: AWS
-- **Version Control**: DevOps: Git, Docker, Kubernetes, Terraform
+- **Version Control**: Git, Docker, Kubernetes, Terraform
 - **Database**: PostgreSQL
 
 ## Experience:
 
 **Benchmark IT Solutions**, Pune, Maharashtra  
 **Associate Software Engineer – GenAI Team**  
-Jun 2024 – Present  
-- Developed a comprehensive, automated document processing pipeline utilizing OpenAI's GPT-4 and GPT-3.5 models for efficient document categorization and field extraction.
-- Built a scalable batch document OCR processing pipeline using Google Document AI, leveraging concurrent processing, increased accuracy by 25%, and improved the efficiency of prompt engineering and rule-based logic.
+
+**Project: Video Face Matching**
+Description:
+Developed a face recognition system for KYC verification, enabling users to access their KYC documents and history through facial identity matching. The system solved the problem of secure, automated identity verification using stored face embeddings.
+
+Key Contributions:
+-Implemented face detection and embedding with MTCNN and Facenet.
+-Developed real-time face matching and document retrieval systems.
+-Ensured smooth user approval based on KYC verification.
+
+Technologies Used: OpenCV, MTCNN, Facenet, Python, PostgreSQL.
+
+Results/Impact:
+-Achieved 95% accuracy in face matching.
+-Automated KYC verification, reducing manual processing time.
+
+**Project-AI Tool For Therapy Session**
+Description:
+This project automates the analysis of therapy sessions by transcribing recordings using Google’s API, summarizing key points with a Crew AI agent and OpenAI's GPT-4 model, and extracting future plans. It also uses BERT for sentiment analysis to assess the patient’s emotional state.
+
+Key Contributions:
+-Developed transcription and summarization pipelines using GPT-4.
+-Implemented sentiment analysis with BERT.
+-Extracted key insights and future plans for therapists.
+
+Technologies Used: Google API, Crew AI, OpenAI GPT-4, BERT, Python
+
+Results/Impact:
+-Streamlined therapy session analysis, improving workflow efficiency and insights.
+
+**Document Extraction**
+Description:
+This project focused on automating the extraction and categorization of legal documents, including PDFs, images, and DOC files. The process involved OCR using Google Document AI, followed by categorization and information extraction using Crew AI and an LLM. The goal was to streamline the handling of legal documents for faster processing and better organization.
+
+Key Contributions:
+-Developed the LangFlow, enabling seamless integration of the project’s various components.
+-Collaborated closely with the team to implement OCR, categorization, and extraction processes.
+-Contributed to optimizing workflows and ensuring smooth communication across different project stages.
+
+Technologies Used:- Langflow,Langchain Google Document AI, Crew AI, LLM, Python
+
+Results/Impact:
+-Enhanced team collaboration and reduced the time spent on manual document processing by automating categorization and extraction.
 
 **Globitas Doctor**, Pune, Maharashtra  
 **Data Scientist**  
