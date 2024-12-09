@@ -1,88 +1,75 @@
 # Hi 👋, I'm Nisha Aglave
 
-I’m a **Software Engineer** working in the Generative AI team at **Benchmark IT Solutions**. With expertise in Machine Learning, Data Science, and Generative AI, I’m passionate about leveraging AI to solve complex problems. I’m known for being hardworking, honest, and always eager to learn and grow in the field of technology.
+I’m a **Software Engineer** at **Benchmark IT Solutions**, specializing in **Generative AI**. I have expertise in **Machine Learning**, **Data Science**, and **Generative AI**, and I'm passionate about using AI to create innovative solutions to complex challenges. Known for being **hardworking**, **honest**, and always striving to learn and grow in the technology space, I enjoy tackling new problems and continuously evolving my skill set.
 
+## 🔧 Technical Skills
 
-## Technical Skills:
 - **Programming Languages**: Python, C++, C, SQL
-- **Visualization Tools**: Tableau, Power BI
+- **Machine Learning & AI**: TensorFlow, Scikit-learn, Keras, OpenCV
 - **Cloud Platforms**: AWS
-- **Version Control**: Git, Docker, Kubernetes, Terraform
-- **Database**: PostgreSQL
+- **Data Visualization**: Tableau, Power BI
+- **Version Control & DevOps**: Git, Docker, Kubernetes, Terraform
+- **Databases**: PostgreSQL
 
-## Experience:
+## 💼 Experience
 
-**Benchmark IT Solutions**, Pune, Maharashtra  
+### **Benchmark IT Solutions**, Pune, Maharashtra  
 **Associate Software Engineer – GenAI Team**  
+*Apr 2024 – Present*
 
-**Project: Video Face Matching**
-Description:
-Developed a face recognition system for KYC verification, enabling users to access their KYC documents and history through facial identity matching. The system solved the problem of secure, automated identity verification using stored face embeddings.
+#### **Project: Video Face Matching**  
+- **Description**: Developed a face recognition system for KYC verification, allowing users to securely access their KYC documents and history through facial identity matching.  
+- **Key Contributions**:
+  - Implemented face detection and embedding with **MTCNN** and **Facenet**.
+  - Developed a real-time face matching and document retrieval system.
+  - Ensured seamless user approval for KYC verification.
+- **Technologies Used**: OpenCV, MTCNN, Facenet, Python, PostgreSQL  
+- **Results/Impact**: Achieved **95% accuracy** in face matching, reducing manual verification time and enhancing security.
 
-Key Contributions:
--Implemented face detection and embedding with MTCNN and Facenet.
--Developed real-time face matching and document retrieval systems.
--Ensured smooth user approval based on KYC verification.
+#### **Project: AI Tool for Therapy Sessions**  
+- **Description**: Automated the analysis of therapy sessions by transcribing recordings using **Google’s API**, summarizing key points with a **Crew AI agent**, and analyzing sentiment with **BERT**.  
+- **Key Contributions**:
+  - Developed transcription and summarization pipelines using **GPT-4**.
+  - Integrated **BERT** for sentiment analysis to assess the patient’s emotional state.
+  - Automated extraction of future plans and key insights for therapists.
+- **Technologies Used**: Google API, Crew AI, OpenAI GPT-4, BERT, Python  
+- **Results/Impact**: Streamlined therapy session analysis, enhancing workflow efficiency and providing more insightful summaries.
 
-Technologies Used: OpenCV, MTCNN, Facenet, Python, PostgreSQL.
+#### **Project: Document Extraction Automation**  
+- **Description**: Automated the extraction and categorization of legal documents (PDFs, images, DOC files) using **Google Document AI** and a **LLM** for information extraction.  
+- **Key Contributions**:
+  - Developed **LangFlow** for smooth integration of various project components.
+  - Implemented OCR, categorization, and extraction processes with **Crew AI**.
+  - Contributed to optimizing workflows and improving cross-team communication.
+- **Technologies Used**: LangFlow, LangChain, Google Document AI, Crew AI, LLM, Python  
+- **Results/Impact**: Reduced manual document processing time through automation, improving overall team collaboration.
 
-Results/Impact:
--Achieved 95% accuracy in face matching.
--Automated KYC verification, reducing manual processing time.
-
-**Project-AI Tool For Therapy Session**
-Description:
-This project automates the analysis of therapy sessions by transcribing recordings using Google’s API, summarizing key points with a Crew AI agent and OpenAI's GPT-4 model, and extracting future plans. It also uses BERT for sentiment analysis to assess the patient’s emotional state.
-
-Key Contributions:
--Developed transcription and summarization pipelines using GPT-4.
--Implemented sentiment analysis with BERT.
--Extracted key insights and future plans for therapists.
-
-Technologies Used: Google API, Crew AI, OpenAI GPT-4, BERT, Python
-
-Results/Impact:
--Streamlined therapy session analysis, improving workflow efficiency and insights.
-
-**Document Extraction**
-Description:
-This project focused on automating the extraction and categorization of legal documents, including PDFs, images, and DOC files. The process involved OCR using Google Document AI, followed by categorization and information extraction using Crew AI and an LLM. The goal was to streamline the handling of legal documents for faster processing and better organization.
-
-Key Contributions:
--Developed the LangFlow, enabling seamless integration of the project’s various components.
--Collaborated closely with the team to implement OCR, categorization, and extraction processes.
--Contributed to optimizing workflows and ensuring smooth communication across different project stages.
-
-Technologies Used:- Langflow,Langchain Google Document AI, Crew AI, LLM, Python
-
-Results/Impact:
--Enhanced team collaboration and reduced the time spent on manual document processing by automating categorization and extraction.
-
-**Globitas Doctor**, Pune, Maharashtra  
+### **Globitas Doctor**, Pune, Maharashtra  
 **Data Scientist**  
-Aug 2023 – Jun 2024  
-- Developed a two-layer LSTM model for automated epileptic seizure prediction, achieving an accuracy of 98.14%.
-- Implemented a robust deep learning pipeline with multi-layer LSTM architecture, outperforming traditional methods for accurate epileptic seizure prediction.
+*Aug 2023 – Jun 2024*
 
-## Projects:
+- Developed a **two-layer LSTM model** for epileptic seizure prediction, achieving **98.14% accuracy**.
+- Implemented an advanced deep learning pipeline, significantly outperforming traditional methods in seizure prediction accuracy.
 
-### 1. **Movie Recommendation System**  
+## 🚀 Projects
+
+### **Movie Recommendation System**  
 *Jan 2021*  
-- Developed a movie recommendation system using Python, Selenium, and Google Cloud Console to recommend movies based on user preferences and viewing history.
-- Implemented machine learning algorithms like collaborative filtering and content-based filtering to optimize recommendations and improve user satisfaction.
+- Created a recommendation system using **Python**, **Selenium**, and **Google Cloud Console** to suggest movies based on user preferences.  
+- Implemented **collaborative filtering** and **content-based filtering** for improved recommendations.
 
-### 2. **Face Recognition for Medical Diagnosis**  
+### **Face Recognition for Medical Diagnosis**  
 *Nov 2020*  
-- Used machine learning and deep learning for face recognition, utilizing CNN and deep neural networks to enhance diagnostic accuracy.
-- Applied models like OpenCV, MTCNN, and FaceNet for feature extraction and embeddings generation.
+- Applied **CNNs** and **deep learning** techniques for face recognition to enhance medical diagnostic accuracy.  
+- Utilized **OpenCV**, **MTCNN**, and **FaceNet** for facial feature extraction and embedding generation.
 
-### 3. **Disease Prediction using Medical Data**  
+### **Disease Prediction Using Medical Data**  
 *Oct 2020*  
-- Developed a predictive model for disease diagnosis using Python, scikit-learn, and PostgreSQL to improve healthcare services by enabling early disease detection.
-- Implemented a recommendation system to predict potential diseases using historical medical data.
+- Developed a predictive model for disease diagnosis using **Python**, **scikit-learn**, and **PostgreSQL** to enable early detection.  
+- Implemented a recommendation system to suggest potential diseases based on historical medical data.
 
-## Reach Me:
+## 📬 Reach Me
 
-- 📧 Email: [nishaaglave29@gmail.com](mailto:nishaaglave29@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/nishaaglave](https://linkedin.com/in/nishaaglave)
-- 🌐 GitHub: [github.com/username](https://github.com/username)
+- **Email**: [nishaaglave29@gmail.com](mailto:nishaaglave29@gmail.com)
+- **LinkedIn**: [linkedin.com/in/nishaaglave](https://linkedin.com/in/nishaaglave)
+- **GitHub**: [github.com/username](https://github.com/username)
