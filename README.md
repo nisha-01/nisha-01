@@ -44,7 +44,7 @@ I’m a **Software Engineer** at **Benchmark IT Solutions**, specializing in **G
 - **Technologies Used**: LangFlow, LangChain, Google Document AI, Crew AI, LLM, Python  
 - **Results/Impact**: Reduced manual document processing time through automation, improving overall team collaboration.
 
-### **Globitas Doctor**, Pune, Maharashtra  
+### **EGlobal Doctor**, Pune, Maharashtra  
 **Data Scientist**  
 *Aug 2023 – Jun 2024*
 
