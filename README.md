@@ -1,5 +1,8 @@
 # Hi 👋, I'm Nisha Aglave
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=nishaaglave&color=blue&style=flat-square)
+
 I’m a **Software Engineer** at **Benchmark IT Solutions**, specializing in **Generative AI**. I have expertise in **Machine Learning**, **Data Science**, and **Generative AI**, and I'm passionate about using AI to create innovative solutions to complex challenges. Known for being **hardworking**, **honest**, and always striving to learn and grow in the technology space, I enjoy tackling new problems and continuously evolving my skill set.
 
 ## 🔧 Technical Skills
@@ -68,22 +71,13 @@ The project aimed to automate seizure prediction from **EEG data** using a **spe
 ## 🚀 Projects
 
 ### **Movie Recommendation System**  
-*Jan 2021*  
+*Dec 2022*  
 - Created a recommendation system using **Python**, **Selenium**, and **Google Cloud Console** to suggest movies based on user preferences.  
 - Implemented **collaborative filtering** and **content-based filtering** for improved recommendations.
 
-### **Face Recognition for Medical Diagnosis**  
-*Nov 2020*  
-- Applied **CNNs** and **deep learning** techniques for face recognition to enhance medical diagnostic accuracy.  
-- Utilized **OpenCV**, **MTCNN**, and **FaceNet** for facial feature extraction and embedding generation.
-
-### **Disease Prediction Using Medical Data**  
-*Oct 2020*  
-- Developed a predictive model for disease diagnosis using **Python**, **scikit-learn**, and **PostgreSQL** to enable early detection.  
-- Implemented a recommendation system to suggest potential diseases based on historical medical data.
 
 ## 📬 Reach Me
 
-- **Email**: [nishaaglave29@gmail.com](mailto:nishaaglave29@gmail.com)
+- **Email**: [nishaaglave29@gmail.com](mailto:nishaaglave297@gmail.com)
 - **LinkedIn**: [linkedin.com/in/nishaaglave](https://linkedin.com/in/nishaaglave)
-- **GitHub**: [github.com/username](https://github.com/username)
+
